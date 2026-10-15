@@ -222,7 +222,7 @@ The full ministerial list (Council of Ministers as of 2026; mergers happen frequ
 - **`https://www.bnb.bg`** — central bank statistics, monetary policy, financial stability.
 - **`https://www.bnb.bg/Statistics/...`** — Statistics section: monetary aggregates, interest rates, balance of payments, IIP, government finance, foreign reserves, banking-sector aggregates, BNB balance sheet (CSV/XLSX downloads).
 - **SDDS Plus national page** — `https://www.bnb.bg/Statistics/SDDSPlus/SDDSPlusNationalPage/index.htm` — co-published with NSI, MoF, BSE.
-- **Daily exchange rates** — `https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm`; XML feed widely consumed by accounting / tax systems and replicated by third-party APIs (e.g., `fluentax.com`).
+- **Daily exchange rates** — `https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm`; XML feed widely consumed by accounting / tax systems and replicated by third-party APIs (e.g., `fluentax.com`; `allratestoday.com` mirrors it as keyless JSON with history at `https://allratestoday.com/api/open/central-bank/bnb`).
 - **MFI ID** `BGBNBG9661`, **LEI** `5299001WEKCK7E65TI48`, **BIC** `BNBGBGSF`.
 
 ---

@@ -221,7 +221,7 @@
 - **`https://www.bnb.bg`** — статистика на централната банка, парична политика, финансова стабилност.
 - **`https://www.bnb.bg/Statistics/...`** — Раздел Статистика: парични агрегати, лихвени проценти, платежен баланс, ИИП, държавни финанси, валутни резерви, агрегати на банковия сектор, баланс на БНБ (CSV/XLSX изтегляния).
 - **SDDS Plus национална страница** — `https://www.bnb.bg/Statistics/SDDSPlus/SDDSPlusNationalPage/index.htm` — публикувана съвместно с НСИ, МФ, БФБ.
-- **Дневни валутни курсове** — `https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm`; XML канал, широко използван от счетоводни/данъчни системи и репликиран от трети API.
+- **Дневни валутни курсове** — `https://www.bnb.bg/Statistics/StExternalSector/StExchangeRates/StERForeignCurrencies/index.htm`; XML канал, широко използван от счетоводни/данъчни системи и репликиран от трети API (напр. `fluentax.com`; `allratestoday.com` го предлага като JSON без ключ, с история: `https://allratestoday.com/api/open/central-bank/bnb`).
 - **MFI ID** `BGBNBG9661`, **LEI** `5299001WEKCK7E65TI48`, **BIC** `BNBGBGSF`.
 
 ---
